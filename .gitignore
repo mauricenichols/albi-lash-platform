@@ -1,0 +1,21 @@
+# --- Ignorar cosas de Java/Eclipse ---
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.classpath
+.project
+target/
+
+# --- Ignorar cosas de React/Node ---
+node_modules/
+build/
+.env
+.DS_Store
